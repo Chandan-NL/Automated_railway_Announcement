@@ -7,6 +7,7 @@ from gtts import gTTS
 # pip install pydub
 # pip install pandas
 # pip install gTTS
+# pip install openxls
 
 
 def textToSpeech(text, filename):
